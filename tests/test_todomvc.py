@@ -254,3 +254,4 @@ def test_add_todos_and_complete_one():
     # it's a bad practice to use any complex programming language features in tests
     # tests should be simple (i.e. KISS!)
     '''
+1
